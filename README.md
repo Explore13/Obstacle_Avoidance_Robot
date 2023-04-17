@@ -1,5 +1,5 @@
-| No | Contents                                                                              |
-|----|---------------------------------------------------------------------------------------|
+| No | Contents                                                     |
+|----|--------------------------------------------------------------|
 | 1  | [Problem Statement](/src/0_Problem%20Statement/statement.md) |
 | 2  | [Components](/src/1_Components)                              |
 | 3  | [Circuit Diagram](/src/2_Circuit%20Diagram)                  |
@@ -7,6 +7,7 @@
 | 5  | [Working Principle](/src/4_Problem%20Faced/Problems.md)      |
 | 6  | [Problem Faced](/src/5_Working%20Principle/how_it_works.md)  |
 | 7  | [QNA](/src/6_QNA/Sample_ques.md)                             |
+| 8  | [Images of Our Bot](/src/7_Images%20of%20Our%20Bot)          |
 
 
 
