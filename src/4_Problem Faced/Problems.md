@@ -2,7 +2,7 @@
 
 - You can ask me why I do not use 4 motors in the bot.
 - If you use four motors then your battery will run out fastly.
-- Motor Driver may heat more.
+- Motor Driver may produce more heat.
 - There is a chance not to take turn to left or right smoothly if you use 4 motors.
 
 ##### At first, we use 4 motors in our bot but the movement (left and right) was not so smooth as we want.So,we use 2 motor and 1 caster wheel.After that the movement (left/right) becomes so smooth. 
