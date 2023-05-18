@@ -18,10 +18,10 @@
 If you face any problem while making this project,you may contact me.
 Email : igsuryas13g@gmail.com
 
-Instagram (Personal) : _ surya_the_explorer _
+Instagram (Personal) : https://www.instagram.com/suryaghosh_13/
 
 Instagram (Our Team) : team.inb_fiem
 
-LinkedIn : https://www.linkedin.com/in/surya-ghosh-23b749250
+LinkedIn : https://www.linkedin.com/in/ghosh-surya/
 
 Tag me on Instagram if my repository helps you to make your project.
